@@ -1,2 +1,2 @@
 # coding_activities
-Prototypes and coding practice here. Nothing special.
+Protótipos, treinos de código... nada demais. Apenas registros do meu aprendizado.
